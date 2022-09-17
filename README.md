@@ -30,8 +30,9 @@ This repository contains implementations of physics informed neural networks, to
 ### Future plans and experiments
 
 - Approximate PDEs using PINNs (Probably something simple like Heat equation)
-- Investigate impact of noisy measurements (Overhead of adding a denoise model)
-- Try to approximate Systems of ODEs (Using jacobian for derivatives)
+- Investigate impact of noisy measurements (Overhead of adding a denoise model) [DONE]
+- Try to approximate Systems of ODEs (Using jacobian for derivatives) [Tests were unsucessful]
+- Test existing implementations and build an API to interact with the neural network [TODO]
 
 _These plans are not in any particular order._
 
